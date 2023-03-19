@@ -9,7 +9,7 @@ export default function ProjectCard({ image, duration }) {
       data-aos="fade-up"
       data-aos-duration={duration}
     >
-      <Image src={image} alt="dua" />
+      <Image src={image} className="w-full object-cover" alt="dua" />
     </Link>
   );
 }

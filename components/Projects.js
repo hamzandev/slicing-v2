@@ -17,7 +17,7 @@ export default function Projects() {
       <h3 className="md:text-4xl text-xl md:w-full w-[60%] mx-auto font-bold text-center">
         My Work Example
       </h3>
-      <div className="grid md:grid-cols-4 md:my-20 my-8 grid-cols-1 gap-16">
+      <div className="grid md:grid-cols-4 md:my-20 my-8 md:mx-0 mx-5 grid-cols-1 gap-16">
         {projects.map((project, index) => (
           <ProjectCard image={project} duration={index++ + "000"} />
         ))}

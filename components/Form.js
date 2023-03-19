@@ -17,7 +17,7 @@ export default function Form() {
         Send Me a Message
       </h3>
 
-      <div className="md:w-9/12 mx-auto mt-20">
+      <div className="md:w-9/12 md:mx-auto mx-5 mt-20">
         <form
           data-aos="fade-down"
           data-aos-duration="2000"

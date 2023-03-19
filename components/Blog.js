@@ -20,7 +20,7 @@ export default function Blog() {
       <div
         data-aos="fade-up"
         data-aos-duration="2000"
-        className="grid mt-20 items-center justify-center md:grid-cols-3 gap-8 grid-cols-1"
+        className="grid mt-20 items-center justify-center md:grid-cols-3 md:mx-0 mx-5 gap-8 grid-cols-1"
       >
         <PostCard image={post1} />
         <PostCard image={post2} />

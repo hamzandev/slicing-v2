@@ -9,7 +9,7 @@ export default function About() {
       className="about-section md:my-20 my-10 w-9/12 mx-auto flex md:flex-row flex-col items-center"
     >
       <div className="md:w-6/12 ">
-        <Image data-aos="fade-right" src={aboutImg} />
+        <Image data-aos="fade-right" src={aboutImg} alt="asdasd" />
       </div>
 
       <div className="md:w-5/12 md:px-10 px-3 py-5 flex flex-col justify-center">
