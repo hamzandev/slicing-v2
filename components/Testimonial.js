@@ -25,13 +25,13 @@ export default function Testimonial() {
           aliquyam. "
         </p>
         <h3
-          data-aos="fade-left"
+          data-aos="fade-down"
           className="text-3xl font-semibold text-center text-gray-700 md:mt-10 mt-5"
         >
           John Doe
         </h3>
         <span
-          data-aos="fade-right"
+          data-aos="fade-up"
           className="text-lg text-gray-400 text-center"
         >
           CEO PT.ABC Company
