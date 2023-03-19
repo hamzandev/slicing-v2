@@ -1,0 +1,23 @@
+.banner {
+  background-image: url("../public/assets/banner-bg.svg");
+}
+
+.testimonial {
+  background-image: url("../public/assets/testimoni-bg.svg");
+}
+
+.blog {
+  background-image: url("../public/assets/blog-bg.svg");
+  background-repeat: no-repeat;
+  background-position-x: right;
+  background-position-y: top;
+  background-size: auto;
+}
+
+.form {
+  background-image: url("../public/assets/form-bg.svg");
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: top;
+  background-size: auto;
+}

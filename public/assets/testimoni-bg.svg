@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="853.503" height="562" viewBox="0 0 853.503 562">
+  <g id="Group_338" data-name="Group 338" transform="translate(-213.497 -4919)">
+    <path id="Path_129" data-name="Path 129" d="M412.18,167.979c-.76,74.633,25.1,72.015,80.033,88.974,71.255,21.993,78.609,261.373-20.69,274.194-51.922,6.7-64.607-63.956-106.028-14.246-50.2,60.239-124.14,36.5-119.283-33.823,2.374-34.407,12.441-67.728-28.939-69.207-73.819-2.632-90.833-107.493,9.158-139.96,78.351-25.439,49.751-74.077,43.076-114.3C253.226,61.584,413.319,56.5,412.18,167.979Z" transform="translate(57.361 4894.265)" fill="none" stroke="#27debf" stroke-miterlimit="10" stroke-width="1" opacity="0.5"/>
+    <circle id="Ellipse_55" data-name="Ellipse 55" cx="43.5" cy="43.5" r="43.5" transform="translate(433 5369)" fill="#27debf" opacity="0.22"/>
+    <circle id="Ellipse_52" data-name="Ellipse 52" cx="43.5" cy="43.5" r="43.5" transform="translate(980 5287)" fill="#27debf" opacity="0.06"/>
+    <g id="Ellipse_51" data-name="Ellipse 51" transform="translate(791 5442)" fill="none" stroke="#27debf" stroke-width="9" opacity="0.22">
+      <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+      <circle cx="19.5" cy="19.5" r="15" fill="none"/>
+    </g>
+    <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(972 5008)" fill="none" stroke="#27debf" stroke-width="9" opacity="0.22">
+      <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+      <circle cx="19.5" cy="19.5" r="15" fill="none"/>
+    </g>
+    <g id="Ellipse_54" data-name="Ellipse 54" transform="translate(623 4919)" fill="none" stroke="#ffe7cc" stroke-width="9" opacity="0.22">
+      <circle cx="19.5" cy="19.5" r="19.5" stroke="none"/>
+      <circle cx="19.5" cy="19.5" r="15" fill="none"/>
+    </g>
+  </g>
+</svg>
